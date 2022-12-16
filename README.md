@@ -2,7 +2,7 @@
 This is the constantly updated texture pack that I use for Minecraft 1.8.9! If you use it for YouTube, make sure to leave credit! Many people like to know what texture pack they're seeing on videos :)
 
 ## how to download and to use
-Click on the green "<> Code" button and select "Download ZIP"! After it's done downloading, grab the folder and put in inside Minecraft's resource pack folder! If you don't know where it is, check the folder's location for Minecraft's official launcher following this part of the README!
+Click the "Releases" button on the right, download the latest's version ZIP file and put that inside your game's resource pack folder! If you don't know where it is, check the folder's location for Minecraft's official launcher following this part of the README!
 
 ## resource pack location for official Minecraft Launcher
 
@@ -18,7 +18,7 @@ I hope you like my texture pack! It's got the PVP kind of style, mixed with Vani
 ¡Este es el pack de texturas actualizado constantemente que uso para Minecraft 1.8.9! Si lo usas en algún video de YouTube, ¡asegúrate de dar créditos! A mucha gente le gusta saber que pack de texturas ven en videos :)
 
 ## como descargar y usar
-¡Pincha en el botón de "<> Code" verde y selecciona "Download ZIP"! Después de que termine de descargarse, ¡agarra el folder y ponlo dentro de la carpeta de pack de texturas de Minecraft! Si no sabes dónde está eso, ¡mira lo que sigue en este README para la ubicación de la carpeta en el launcher de Minecraft oficial!
+¡Pincha en el botón de "Releases" a la derecha, descarga el ZIP de la versión mas reciente y ponlo dentro de la carpeta de pack de texturas de tu juego! Si no sabes dónde está eso, ¡mira lo que sigue en este README para la ubicación de la carpeta en el launcher de Minecraft oficial!
 
 ## ubicación de la carpeta de pack de texturas para el launcher oficial de Minecraft
 
